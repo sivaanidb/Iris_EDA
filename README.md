@@ -6,13 +6,13 @@ This project is a beginner-friendly data analysis and machine learning tutorial 
 ---
 
 ## Requirements
-To run this project, you need Python installed along with the following libraries:
+To run this project, you need Python installed along with the dependencies specified in the `requirements.txt` file:
 * `pandas`
 * `numpy`
 * `matplotlib`
 * `seaborn`
 * `scikit-learn`
 
-You can install them using `pip` commands inside your notebook or terminal:
+You can easily install all dependencies using `pip` from your terminal or command prompt:
 ```bash
-pip install pandas matplotlib seaborn scikit-learn
+pip install -r requirements.txt
